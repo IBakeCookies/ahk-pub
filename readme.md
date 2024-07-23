@@ -1,0 +1,1 @@
+# Simple AHK premade commands
